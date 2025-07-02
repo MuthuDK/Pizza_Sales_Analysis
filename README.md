@@ -31,7 +31,7 @@
 - The dataset includes details about orders, order_details, pizzas and pizza types.
 
 ## 🔗Project Link
-- <a href="https://github.com/MuthuDK/Pizza_Sales_Analysis/blob/main/SQL%20Project.pdf>View Project<a/>
+- <a href="https://github.com/MuthuDK/Pizza_Sales_Analysis/blob/main/SQL%20Project.pdf">View Project<a/>
 
 ## 📃 Conclusion
 Using MySQL, I was able to transform raw pizza sales data into actionable insights that highlight sales performance, customer trends, and operational opportunities.
